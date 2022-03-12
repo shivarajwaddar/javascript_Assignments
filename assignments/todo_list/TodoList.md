@@ -10,4 +10,4 @@ Instructions
 * That means your first todo would look like ```<p key="0">{Todo Name}</p>```, second would look like ```<p key="1">{Todo Name}</p>``` and so on...
 * Add event listener on each todo as well, so that on clicking of that todo, it should be removed from the html document, you don't need to decrease the count of todo though
 
-Run ```npm run test todo_list``` to test your code
+Run ```npm run test todo_list``` to test your code 
